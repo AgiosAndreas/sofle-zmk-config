@@ -14,6 +14,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: sofle_left
+    shield: lotus58_left
   - board: nrfmicro_13
-    shield: sofle_right
+    shield: lotus58_right
